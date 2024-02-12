@@ -17,7 +17,7 @@ intend on sending it, say 8 characters, it will not rollover to display the last
 gunk.  It doesn't seem that special characters are counted against the input buffer.  
 
 There are three special characters you can input (without quotes) into the serial buffer and it will cause special behavior: 
-"%" will display as an empty character, but so will <space>. 
+"%" will display as an empty character, but so will "<space>". 
 "*" will activate the . between the numbers.
 "#" will activate the . between the numbers. 
 
