@@ -1,5 +1,5 @@
 # Clearcore-DM49C04
-This is a sample sketch to get the Teknic Clearcore working with the DM49C04 serial display. It  will likey work with other Arduino style chips with few modifications. 
+This is a sample sketch to get the Teknic Clearcore working with the DM49C04 serial display. It  will likely work with other Arduinos with little modification. 
 
 This program reads an encoder and sends the position over serial and formats to display correctly on the DM49C04 display.  
 The encoder is a 5-pin rotary type with A and B connected to the fast inputs (DI6 and DI7) on the ClearCore. 
