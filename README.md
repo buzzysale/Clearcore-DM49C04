@@ -22,6 +22,6 @@ There are three special characters you can input (without quotes) into the seria
 
 "*" will activate the . between the numbers.
 
-"#" will clear the screen buffer. 
+"#" will clear the screen buffer (turn it off). 
 
 
