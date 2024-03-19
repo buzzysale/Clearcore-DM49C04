@@ -20,8 +20,8 @@ There are three special characters you can input (without quotes) into the seria
 
 "%" will display as an empty character (a space), but so will just using the space character. 
 
-"*" will activate the . between the numbers.
+"*" will activate decimal (.) between the numbers.
 
-"#" will clear the screen buffer (turn it off). 
+"#" will clear the screen buffer. I suggest you send this before every string. A plain # without following characters will turn the display off. 
 
 
